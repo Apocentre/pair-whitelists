@@ -1,10 +1,18 @@
 [
     {
-        "symbols": "Cake/BUSD",
+        "symbols": "CAKE-BUSD",
         "pair": "0x804678fa97d91B974ec2af3c843270886528a9E6"
     },
     {
-        "symbols": "FUSE/BNB",
+        "symbols": "FUSE-BNB",
         "pair": "0x6483F166b9E4310A165a55FEa04F867499aded06"
+    },
+    {
+        "symbols": "HOTCROSS-BNB",
+        "pair": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915"
+    },
+    {
+        "symbols": "BUSD-BNB",
+        "pair": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
     }
 ]
