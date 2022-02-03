@@ -12,7 +12,15 @@
         "pair": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915"
     },
     {
-        "symbols": "BUSD-BNB",
+        "symbols": "BNB-BUSD",
         "pair": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"
+    },
+    {
+        "symbols": "USDT-BNB",
+        "pair": "0x16b9a82891338f9ba80e2d6970fdda79d1eb0dae"
+    },
+    {
+        "symbols": "ETH-BNB",
+        "pair": "0x74e4716e431f45807dcf19f284c7aa99f18a4fbc"
     }
 ]
