@@ -1,38 +1,56 @@
 [
-    {
-        "symbols": "CAKE-BUSD",
-        "pair": "0x804678fa97d91B974ec2af3c843270886528a9E6",
-        "token0": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-        "token1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-    },
-    {
-        "symbols": "FUSE-BNB",
-        "pair": "0x6483F166b9E4310A165a55FEa04F867499aded06",
-        "token0": "0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3",
-        "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-    },
-    {
-        "symbols": "HOTCROSS-BNB",
-        "pair": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
-        "token0": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-        "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-    },
-    {
-        "symbols": "BNB-BUSD",
-        "pair": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
-        "token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-        "token1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-    },
-    {
-        "symbols": "USDT-BNB",
-        "pair": "0x16b9a82891338f9ba80e2d6970fdda79d1eb0dae",
-        "token0": "0x55d398326f99059fF775485246999027B3197955",
-        "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-    },
-    {
-        "symbols": "ETH-BNB",
-        "pair": "0x74e4716e431f45807dcf19f284c7aa99f18a4fbc",
-        "token0": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-        "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-    }
+  {
+    "symbols": "CAKE-BUSD",
+    "pair": "0x804678fa97d91B974ec2af3c843270886528a9E6",
+    "token0": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "token1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  },
+  {
+    "symbols": "FUSE-BNB",
+    "pair": "0x6483F166b9E4310A165a55FEa04F867499aded06",
+    "token0": "0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },
+  {
+    "symbols": "HOTCROSS-BNB",
+    "pair": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+    "token0": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },
+  {
+    "symbols": "BNB-BUSD",
+    "pair": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
+    "token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "token1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  },
+  {
+    "symbols": "USDT-BNB",
+    "pair": "0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE",
+    "token0": "0x55d398326f99059fF775485246999027B3197955",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },
+  {
+    "symbols": "ETH-BNB",
+    "pair": "0x74E4716E431f45807DCF19f284c7aA99F18a4fbc",
+    "token0": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },
+  {
+    "symbols": "BTCB-BNB",
+    "pair": "0x61EB789d75A95CAa3fF50ed7E47b96c132fEc082",
+    "token0": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },
+  {
+    "symbols": "BNB-UNI",
+    "pair": "0x014608E87AF97a054C9a49f81E1473076D51d9a3",
+    "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "token1": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+  },
+  {
+    "symbols": "USDT-BNB",
+    "pair": "0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE",
+    "token0": "0x55d398326f99059ff775485246999027b3197955",
+    "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+  }
 ]
