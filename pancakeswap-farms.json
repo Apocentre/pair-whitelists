@@ -52,5 +52,11 @@
     "pair": "0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE",
     "token0": "0x55d398326f99059ff775485246999027b3197955",
     "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+  },
+  {
+    "symbols": "ETH-USDC",
+    "pair": "0xEa26B78255Df2bBC31C1eBf60010D78670185bD0",
+    "token0": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "token1": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
   }
 ]
